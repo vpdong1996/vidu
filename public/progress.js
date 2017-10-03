@@ -2,7 +2,7 @@ var BaiTap = React.createClass({
   render : function(){
       return(
         <div>
-        <h1 className= "xanh" > {this.props.vidu2} </h1>
+        <h1 > {this.props.vidu2} </h1>
         <Vidu />
         </div>
       );
